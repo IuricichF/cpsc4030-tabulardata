@@ -12,5 +12,5 @@ You should be defining your graph inside the file script.js using the following 
 - time to append a group of bars to your `svg` element. Remember you can use `g` to group bars together in a single group.
 - now it is time to create the x and y axis and append them to your final visualization. Try to improve the way the axis and the ticks look. For example, search online for ways to rotate the axis tick (65 degrees should do), and to reduce/increase the number of ticks visualized.
 
-Once you are satisfied with the result update your code on Github and add a screenshot of your result directly on the repository. Then, submite the screenshot and the `script.js` file on Gradescope.
+Once you are satisfied with the result add a screenshot of your result in your working directory. Then, submit the zipped working directory in Canvas.
 
